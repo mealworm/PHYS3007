@@ -22,7 +22,7 @@ gtlike:
 
 model:
   src_roiwidth : 15.0
-  galdiff  : '$FERMI_DIFFUSE_DIR/gll_iem_v06.fits'
-  isodiff  : '$FERMI_DIFFUSE_DIR/iso_P8R2_SOURCE_V6_v06.txt'
+  galdiff  : 'diffuse/gll_iem_v07.fits'
+  isodiff  : 'diffuse/iso_P8R3_SOURCE_V3_v1.txt'
   catalogs : ['3FGL']
   
