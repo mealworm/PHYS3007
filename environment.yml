@@ -1,11 +1,12 @@
 name: fermipy
 
 channels:
-  - conda-forge
+#  - conda-forge
   - fermi
   - conda-forge/label/cf201901
 
 dependencies:
+  - python=2.7.18
   - fermitools=1.2.23
   - fermipy=0.20.0
 #  - scipy
