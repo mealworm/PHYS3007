@@ -6,9 +6,8 @@ channels:
   - conda-forge/label/cf201901
 
 dependencies:
-  - python=2.7.18
-  - fermitools=1.2.23
-  - fermipy=0.20.0
+  - fermitools=2.0.0
+  - fermipy=1.0.0
 #  - scipy
 #  - matplotlib
 #  - pyyaml
