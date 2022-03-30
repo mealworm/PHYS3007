@@ -1,2 +1,0 @@
-../data/PH00.fits
-../data/PH01.fits

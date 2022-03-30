@@ -1,15 +1,7 @@
-name: fermi
+name: PHYS3007
 
 channels:
-  - conda-forge
-  - fermi
+
 
 dependencies:
-  - fermitools=2.0.0
-#  - scipy
-#  - matplotlib
-#  - pyyaml
-#  - numpy
-#  - astropy
-#  - gammapy
-#  - healpy
+  - astropy
