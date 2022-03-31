@@ -1,8 +1,0 @@
-name: PHYS3007
-
-channels:
-
-
-dependencies:
-  - astropy
-  - matplotlib
