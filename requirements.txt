@@ -1,4 +1,5 @@
 astropy
 matplotlib
-git+https://gitlab.sauerburger.com/frank/pylorentz.git@master#egg=pylorentz
+pylorentz
+#git+https://gitlab.sauerburger.com/frank/pylorentz.git@master#egg=pylorentz
 
